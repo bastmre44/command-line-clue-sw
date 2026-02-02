@@ -6,7 +6,7 @@
 - [ ] The Florist
 
 ## Weapons
-- [ ] Wooden Box
+- [x] Wooden Box
 - [x] Walking Stick
 - [ ] Letter Opener
 
