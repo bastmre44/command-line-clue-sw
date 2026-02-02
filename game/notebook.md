@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Clockmaker
 - [ ] The Banker
-- [ ] The Florist
+- [x] The Florist
 
 ## Weapons
 - [x] Wooden Box
@@ -14,3 +14,5 @@
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+The crime took place in the Science Lab, which was empty at the time.
+The only remaining suspect is The Florist, and the only remaining weapon is the Letter Opener.
